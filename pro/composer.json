@@ -1,0 +1,17 @@
+{
+    "name": "administrator/pro",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\Pro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paramountsky7",
+            "email": "paramountsky7@gmail.com"
+        }
+    ],
+    "require": {
+        "telegram-bot/api": "^2.4"
+    }
+}
